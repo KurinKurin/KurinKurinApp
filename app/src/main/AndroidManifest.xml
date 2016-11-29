@@ -15,8 +15,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".MainActivity" />
         <activity android:name=".DetallesTiendaActivity"></activity>
+=======
+<<<<<<< HEAD
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DetallesTiendaActivity"></activity>
+=======
+        <activity android:name=".MainActivity"></activity>
+>>>>>>> c3c270e2cef166bbebeee0d34a6dab6dae492340
+>>>>>>> d8f0cc9e76f31b55575b03143c3d2ed450534b22
     </application>
 
 </manifest>
